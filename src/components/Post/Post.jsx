@@ -6,7 +6,7 @@ import { Avatar } from "../Avatar/Avatar";
 export const Post = () => {
   return (
     <div className={styles.post}>
-      <article className={styles.post}>
+      <article>
         <header>
           <div className={styles.author}>
             <Avatar src="https://avatars.githubusercontent.com/u/33493699?v=4" />
